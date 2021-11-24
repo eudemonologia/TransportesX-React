@@ -1,6 +1,6 @@
-# Transportes
+# Transportes X - REACT
 
-Esta es una app en proceso de desarrrollo para la Diplomatura en Programación Web Full-Stack de la UTN
+Tercer trabajo integrador de la "Diplomatura en programación web fullstack con React JS" con React JS.
 
 ## Autor
 
