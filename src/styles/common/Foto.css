@@ -1,0 +1,18 @@
+.foto {
+  flex-basis: 31%;
+  border: 1px solid #ddd;
+  padding: 0.3em;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.foto img {
+  width: 100%;
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .foto {
+    flex-basis: 100%;
+  }
+}
